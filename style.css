@@ -1,9 +1,9 @@
 
 body {
-    font-family: Arial, Helvetica, sans-serif; /* indique la police de caratère */
-    color: darkslategrey; /* couleur du texte */
-    font-size: 16px; /* taille du texte */
-    /* font-weight: bold; /* graisse (poids) de la font */
+    width: 100%;
+margin: 0 auto;
+max-width: 1000px;
+
 }
 
 .bold {
