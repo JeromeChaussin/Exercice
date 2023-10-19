@@ -3,8 +3,6 @@ body {
     font-family: Arial, Helvetica, sans-serif; /* indique la police de caratère */
     color: darkslategrey; /* couleur du texte */
     font-size: 16px; /* taille du texte */
-    margin-left: 20%;
-    margin-right: 20%;
     /* font-weight: bold; /* graisse (poids) de la font */
 }
 
