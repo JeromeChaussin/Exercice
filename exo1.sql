@@ -23,3 +23,8 @@ CREATE TABLE produits (
 
 --On affiche les valeurs de la table 'Produits'
 DESCRIBE produits;
+
+--Supprsion database & table
+DROP TABLE IF EXISTS produits;
+
+DROP DATABASE IF EXISTS exo1;
