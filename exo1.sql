@@ -33,6 +33,9 @@ VALUES
 --On affiche les valeurs de la table 'Produits'
 DESCRIBE produits;
 
+--Vue des entrées
+SELECT * FROM produits;
+
 --Supprsion database & table
 DROP TABLE IF EXISTS produits;
 
