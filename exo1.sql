@@ -20,3 +20,6 @@ CREATE TABLE produits (
     Poids DECIMAL(7, 2),
     DateExpiration DATE
 );
+
+--On affiche les valeurs de la table 'Produits'
+DESCRIBE produits;
